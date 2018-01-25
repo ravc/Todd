@@ -1,0 +1,6 @@
+#THIS IS AN EXAMPLE FORMAT FOR TODD 2.0#
+
+arduino: C:\Program Files (x86)\Arduino\arduino.exe
+PowerDVD10: C:\Program Files (x86)\CyberLink\PowerDVD10\PowerDVD10.exe
+EndNote: C:\Program Files (x86)\EndNote X7\EndNote.exe
+Etcher: C:\Program Files (x86)\Etcher\Etcher.exe
