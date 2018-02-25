@@ -1,2 +1,2 @@
 # Todd
-A basic application opener using speech recognition
+A basic speech recognition script that can run system commands
